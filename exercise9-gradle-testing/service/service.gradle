@@ -1,0 +1,7 @@
+dependencies {
+  implementation project(':model')
+  implementation apacheDependencies.commonsLang3
+  implementation apacheDependencies.commonsIo
+  testImplementation apacheDependencies.junit
+  testImplementation apacheDependencies.mockito
+}
