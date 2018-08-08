@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Collections Activity
+Implementation-Version: 1.0
+Main-Class: com.apm.app.AdvancedMain
+
