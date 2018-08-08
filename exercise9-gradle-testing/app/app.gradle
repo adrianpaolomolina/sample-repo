@@ -1,0 +1,6 @@
+dependencies {
+  compile project(':service')
+  implementation apacheDependencies.commonsLang3
+  testImplementation apacheDependencies.junit
+  testImplementation apacheDependencies.mockito
+}
